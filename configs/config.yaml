@@ -1,0 +1,12 @@
+service:
+  host: 0.0.0.0
+  port: 8081
+
+postgres:
+  db:
+    host: 127.0.0.1
+    port: 5432
+    user: faf
+    password: password
+    db_name: faf
+    no_sql: true
